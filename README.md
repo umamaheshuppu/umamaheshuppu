@@ -1,9 +1,7 @@
 ### Hi there 👋 I am Uma Mahesh Uppu
 
 
-**umamaheshuppu/umamaheshuppu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Professional Developers Personal Account.
 
 - 🔭 I’m currently working on Django , Flask and Dash frameworks , have good idea on Angular.
 - 🌱 I’m currently learning AI/ML and AWS
